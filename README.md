@@ -1,2 +1,6 @@
 # hello-world
-Tutorial
+
+Sarahh Heywood
+Junior Database Developer
+Snowboarder
+Leanring to code!
